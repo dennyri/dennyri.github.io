@@ -1,3 +1,3 @@
 Percobaan
 
-https://dennyri.github.io/My-Portfolio/
+https://dennyri.github.io/
